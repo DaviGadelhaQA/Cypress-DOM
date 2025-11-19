@@ -1,4 +1,4 @@
-describe('Check Box Practice', () => {
+describe('CheckBox Practice', () => {
     beforeEach(() => {
         cy.visit('/');
     })
